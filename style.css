@@ -1,0 +1,26 @@
+#probutton
+{
+    width: 100px;
+    border-style:ridge;
+border-radius:20px;border-color:rgb(207, 23, 23);
+border-width:15;
+color: rgb(22, 206, 219);
+
+} 
+body{
+	background-color: brown;
+    color: wheat;
+}
+
+
+#camera
+{
+    width:450px;
+    height: 300px;   
+  
+border-width:10;
+border-style:ridge;
+border-radius:20px;
+padding :5px;
+}
+
